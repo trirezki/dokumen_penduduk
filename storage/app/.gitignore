@@ -1,0 +1,9 @@
+*
+*/
+!public/
+!.gitignore
+!template_word
+!template_word/*
+!helper_icon
+!helper_icon/*
+!tmp
