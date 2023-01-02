@@ -46,7 +46,7 @@
             </g>
           </svg>
         </span>
-        <span class="app-brand-text demo menu-text fw-bolder ms-2">Sipaktusarah</span>
+        <span class="app-brand-text demo menu-text fw-bolder ms-2">Dukcapil</span>
       </router-link>
 
       <a href="javascript:void(0);" class="
