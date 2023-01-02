@@ -137,7 +137,7 @@
                 </div>
                 <div class="mb-3 col-sm-6">
                     <label class="form-label">Provinsi</label>
-                    <input type="text" class="form-control" placeholder="Kalimantan Selatan"
+                    <input type="text" class="form-control" placeholder="Sumbawa Besar"
                         v-model="letter.province" />
                 </div>
             </div>
@@ -193,7 +193,7 @@
                 </div>
                 <div class="mb-3 col-sm-6">
                     <label class="form-label">Provinsi</label>
-                    <input type="text" class="form-control" placeholder="Kalimantan Selatan"
+                    <input type="text" class="form-control" placeholder="Sumbawa Besar"
                         v-model="letter.moving_destination_province" />
                 </div>
             </div>

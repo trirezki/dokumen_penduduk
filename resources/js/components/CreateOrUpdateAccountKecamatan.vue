@@ -68,7 +68,7 @@
                 </div>
                 <div class="mb-3 col-md-6">
                   <label for="province" class="form-label">Provinsi</label>
-                  <input class="form-control" type="text" id="province" name="province" placeholder="Kalimantan Selatan"
+                  <input class="form-control" type="text" id="province" name="province" placeholder="Sumbawa Besar"
                     required v-model="institution.province" />
                 </div>
                 <div class="mb-3 col-md-6">
