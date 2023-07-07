@@ -20,7 +20,7 @@
             <div class="card-body">
               <div class="card-title d-flex align-items-start justify-content-between">
                 <div class="avatar flex-shrink-0">
-                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-file"></i>
+                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-folder"></i>
                 </div>
               </div>
               <span class="fw-semibold d-block mb-1">Surat IUMK</span>
@@ -37,7 +37,7 @@
             <div class="card-body">
               <div class="card-title d-flex align-items-start justify-content-between">
                 <div class="avatar flex-shrink-0">
-                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-file"></i>
+                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-folder"></i>
                 </div>
               </div>
               <span class="fw-semibold d-block mb-1">Surat DAMIU</span>
@@ -54,7 +54,7 @@
             <div class="card-body">
               <div class="card-title d-flex align-items-start justify-content-between">
                 <div class="avatar flex-shrink-0">
-                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-file"></i>
+                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-folder"></i>
                 </div>
               </div>
               <span class="fw-semibold d-block mb-1">Surat Dispensasi Nikah</span>
@@ -71,7 +71,7 @@
             <div class="card-body">
               <div class="card-title d-flex align-items-start justify-content-between">
                 <div class="avatar flex-shrink-0">
-                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-file"></i>
+                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-ffolder"></i>
                 </div>
               </div>
               <span class="fw-semibold d-block mb-1">Surat SKTM Untuk Sekolah/Instansi</span>
@@ -88,7 +88,7 @@
             <div class="card-body">
               <div class="card-title d-flex align-items-start justify-content-between">
                 <div class="avatar flex-shrink-0">
-                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-file"></i>
+                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-folder"></i>
                 </div>
               </div>
               <span class="fw-semibold d-block mb-1">Surat SKTM Untuk Data Kesehatan</span>
@@ -105,7 +105,7 @@
             <div class="card-body">
               <div class="card-title d-flex align-items-start justify-content-between">
                 <div class="avatar flex-shrink-0">
-                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-file"></i>
+                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-folder"></i>
                 </div>
               </div>
               <span class="fw-semibold d-block mb-1">Biodata Penduduk WNI</span>
@@ -122,7 +122,7 @@
             <div class="card-body">
               <div class="card-title d-flex align-items-start justify-content-between">
                 <div class="avatar flex-shrink-0">
-                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-file"></i>
+                  <i style="font-size:40px;" class="menu-icon tf-icons bx bx-folder"></i>
                 </div>
               </div>
               <span class="fw-semibold d-block mb-1">Surat Keterangan Pindah Datang WNI</span>

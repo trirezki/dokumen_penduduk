@@ -63,11 +63,11 @@
                                         </g>
                                     </svg>
                                 </span>
-                                <span class="app-brand-text demo text-body fw-bolder">Dukcapi Sumbawa</span>
+                                <span class="app-brand-text demo text-body fw-bolder">Administrasi Desa</span>
                             </a>
                         </div>
                         <!-- /Logo -->
-                        <h4 class="mb-2">Selamat datang di Dukcapil Sumbawa! 👋</h4>
+                        <h4 class="mb-2">Selamat datang di Desa Sernu! 👋</h4>
                         <p class="mb-4">Silahkan login agar bisa menggunakan aplikasi</p>
 
                         <form id="formAuthentication" class="mb-3" action="{{ route('login.action') }}" method="POST">
